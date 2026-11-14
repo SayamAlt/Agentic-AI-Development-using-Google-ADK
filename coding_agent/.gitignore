@@ -1,0 +1,5 @@
+.env
+.adk/
+workspace/*.db
+workspace/__pycache__/
+workspace/.pytest_cache/
